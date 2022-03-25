@@ -5,7 +5,7 @@
 |:-------------:|:-------------:|
 | ![GitHub followers](https://img.shields.io/github/followers/AshiqNoor?logo=GitHub&style=for-the-badge)     | <img src="https://komarev.com/ghpvc/?username=AshiqNoor&label=Profile%20views&color=0e75b6&style=flat" alt="AshiqNoor" /> |
 
-<p align="right"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="right"><img src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" /></p>
 
 -------------
 
